@@ -307,7 +307,16 @@ nasa="528817151"
 gigihadid="12995776"
 kingjames="19410587"
 selenagomez="460563723"
+luanavjollca="28256874"
+noizy="238534797"
+noraistrefi="206549224"
+alketavejsiu="445659113"
+sydneyfemaleblogger="1509829319"
 
+enikociiii="54793227"
+arilenaaraa="474148180"
+bes_kallaku="632381076"
+exteriorglam="3712024219"
 champagnepapi="14455831"
 jlo="305701719"
 dualipa="12331195"
@@ -325,7 +334,7 @@ instagram="25025320"
 
 
 if [[ ! -e celeb_id ]]; then
-printf "%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n" $champagnepapi $jlo $dualipa $mileycyrus $shawnmendes $katyperry $charlieputh $lelepons $camila_cabello $madonna $leonardodicaprio $ladygaga $taylorswift $instagram $neymar $katyperry $selena $ariana $beyonce $cristiano $kimkardashian $kendalljenner $therock $kylie $jelopez $messi $nasa $gigihadid $kingjames $selenagomez > celeb_id
+printf "%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n" $enikociiii $arilenaaraa $bes_kallaku $exteriorglam $champagnepapi $jlo $dualipa $mileycyrus $shawnmendes $katyperry $charlieputh $lelepons $camila_cabello $madonna $leonardodicaprio $ladygaga $taylorswift $instagram $neymar $katyperry $selena $ariana $beyonce $cristiano $kimkardashian $kendalljenner $therock $kylie $jelopez $messi $nasa $gigihadid $kingjames $selenagomez $luanavjollca $noizy $noraistrefi $alketavejsiu $sydneyfemaleblogger > celeb_id
 fi
 
 while [[ true ]]; do
@@ -367,7 +376,7 @@ fi
 
 sleep 2
 done
-printf "\e[1;92m Sleeping 70 secs...\e[0m\n"
+printf "\e[1;92m Sleeping 50 secs...\e[0m\n"
 printf "\e[1;77m Press \"Ctrl + c\" to stop starting the following process again \e[0m\n"
 sleep 70
 
