@@ -369,7 +369,7 @@ sleep 2
 done
 printf "\e[1;92m Sleeping 50 secs...\e[0m\n"
 printf "\e[1;77m Press \"Ctrl + c\" to stop starting the following process again \e[0m\n"
-sleep 50
+sleep 70
 
 
 done
