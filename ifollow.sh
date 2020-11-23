@@ -38,7 +38,7 @@ printf " \e[1;31m8888\e[0m\e[1;95m   8P      988P    88 88    988P      98P  98P
 printf "\e\n"
 sleep 0.01
 printf "\e[1;31m             .::\e[0m\e[1;41mInstagram \e[0m\e[1;45mFollowers\e[0m\e[1;31m::.\e[0m\n"
-sleep 1
+sleep 0.01
 
 }
 
